@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Harmony Sans Regular';
+    src: url('/fonts/HarmonyOS_Sans_Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Harmony Sans Bold';
+    src: url('/fonts/HarmonyOS_Sans_Bold.ttf);
+}
